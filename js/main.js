@@ -15,6 +15,11 @@ function  student1Haiku()
 {
     return ["AAAAAAAAAAAAAAAAAAAAAAA","BBBBBBBBBBBBBBBBBBBBBBBBBB","CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC"]
 }
+
+function basicHaiku1()
+{
+return ["na de plechtigheid", "tientallen handen schudden",  "geen naam onthouden"]
+}
 //zet hier je haiku functie neer, zie https://github.com/progsen/haikugitopdracht voor ideeen
 
 haikus = [
