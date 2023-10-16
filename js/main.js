@@ -1,7 +1,10 @@
+//function student1Haiku()
+
 const oldgreeting = require("./oldgreeting.js");
 console.log("merge oefening leuk!")
 
 oldgreeting.greet()
+
 
 
 function basicHaiku()
