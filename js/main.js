@@ -5,11 +5,15 @@ console.log("merge oefening leuk!")
 
 oldgreeting.greet()
 
-
+ 
 
 function basicHaiku()
 {
 return ["Hello luigi","We saw a dong descending","On a day in fall."]
+}
+function  student1Haiku()
+{
+    return ["AAAAAAAAAAAAAAAAAAAAAAA","BBBBBBBBBBBBBBBBBBBBBBBBBB","CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC"]
 }
 //zet hier je haiku functie neer, zie https://github.com/progsen/haikugitopdracht voor ideeen
 
